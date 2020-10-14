@@ -1,2 +1,2 @@
-# bootcamp
-IGTI DevOps Bootcamp
+# wscicd
+Workshop CiCd
